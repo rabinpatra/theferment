@@ -1,0 +1,7 @@
+baseURL = "http://theferment.in.s3-website.ap-south-1.amazonaws.com/"
+languageCode = "en-us"
+title = "The Ferment"
+relativeURLs = true
+
+[Params]
+ Author = "Amrita Hazra"
