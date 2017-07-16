@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Ferment </title>
+    <link>http://theferment.in.s3-website.ap-south-1.amazonaws.com/post/</link>
+    <language>en-us</language>
+    <author>Amrita Hazra</author>
+    <rights>(C) 2017</rights>
+    <updated>2017-07-03 21:25:17 &#43;0530 IST</updated>
+
+    
+      
+        <item>
+          <title>Firspost</title>
+          <link>http://theferment.in.s3-website.ap-south-1.amazonaws.com/post/firspost/</link>
+          <pubDate>Mon, 03 Jul 2017 21:25:17 IST</pubDate>
+          <author>Amrita Hazra</author>
+          <guid>http://theferment.in.s3-website.ap-south-1.amazonaws.com/post/firspost/</guid>
+          <description>&lt;p&gt;The first post on the theferment.in&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
